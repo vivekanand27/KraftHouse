@@ -1,0 +1,13 @@
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\bin\Debug\netcoreapp2.1\KraftHouseWebAPI.deps.json
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\bin\Debug\netcoreapp2.1\KraftHouseWebAPI.runtimeconfig.json
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\bin\Debug\netcoreapp2.1\KraftHouseWebAPI.runtimeconfig.dev.json
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\bin\Debug\netcoreapp2.1\KraftHouseWebAPI.dll
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\bin\Debug\netcoreapp2.1\KraftHouseWebAPI.pdb
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\obj\Debug\netcoreapp2.1\KraftHouseWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\obj\Debug\netcoreapp2.1\KraftHouseWebAPI.RazorAssemblyInfo.cache
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\obj\Debug\netcoreapp2.1\KraftHouseWebAPI.RazorAssemblyInfo.cs
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\obj\Debug\netcoreapp2.1\KraftHouseWebAPI.AssemblyInfoInputs.cache
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\obj\Debug\netcoreapp2.1\KraftHouseWebAPI.AssemblyInfo.cs
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\obj\Debug\netcoreapp2.1\KraftHouseWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\obj\Debug\netcoreapp2.1\KraftHouseWebAPI.dll
+C:\Users\Vivek\source\repos\KraftHouse\KraftHouseWebAPI\obj\Debug\netcoreapp2.1\KraftHouseWebAPI.pdb
